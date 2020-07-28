@@ -24,7 +24,6 @@ export default function BannerMain({
         <ContentAreaContainer.Item>
           <ContentAreaContainer.Title>
             {videoTitle}
-            Rafael Vercel
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
