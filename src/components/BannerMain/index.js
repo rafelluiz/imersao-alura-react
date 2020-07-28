@@ -24,6 +24,7 @@ export default function BannerMain({
         <ContentAreaContainer.Item>
           <ContentAreaContainer.Title>
             {videoTitle}
+            Teste Vercel
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
