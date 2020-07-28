@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bdc935f0-d0f3-4a6a-a4a9-5a0458fd168a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/Logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/img/Logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BannerMain/components/VideoIframeResponsive/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BannerMain/components/VideoIframeResponsive/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BannerMain/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/BannerMain/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carousel/components/VideoCard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carousel/components/VideoCard/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carousel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Carousel/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Footer/styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu/Menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu/components/ButtonLink/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Menu/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/dados_iniciais.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/assets/img/Logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/assets/img/Logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/BannerMain/components/VideoIframeResponsive/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/BannerMain/components/VideoIframeResponsive/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/BannerMain/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/BannerMain/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Carousel/components/VideoCard/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Carousel/components/VideoCard/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Carousel/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Carousel/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Footer/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Footer/styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Menu/Menu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Menu/components/ButtonLink/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/components/Menu/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/data/dados_iniciais.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/aluraflix/src/index.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fHgX7aANz3Ki5hAqwDdh1NYOHZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bdc935f0-d0f3-4a6a-a4a9-5a0458fd168a" name="Default Changelist" comment="" />
+      <created>1595880469798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595880469798</updated>
+      <workItem from="1595880477256" duration="2781000" />
+      <workItem from="1595886690892" duration="2245000" />
+      <workItem from="1595889412354" duration="55000" />
+      <workItem from="1595889515713" duration="64000" />
+      <workItem from="1595889635682" duration="3117000" />
+      <workItem from="1595955119328" duration="4821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1025" y="326" width="592" height="601" key="#JavaScript" timestamp="1595890456848">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="1025" y="326" width="592" height="601" key="#JavaScript/0.0.1920.1048@0.0.1920.1048" timestamp="1595890456848" />
+    <state x="529" y="153" width="1022" height="732" key="SettingsEditor" timestamp="1595889872210">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="529" y="153" width="1022" height="732" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1595889872210" />
+    <state x="1182" y="282" width="672" height="678" key="search.everywhere.popup" timestamp="1595892209267">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="1182" y="282" width="672" height="678" key="search.everywhere.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1595892209267" />
+  </component>
+</project>
