@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bdc935f0-d0f3-4a6a-a4a9-5a0458fd168a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/BannerMain/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BannerMain/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Home/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/cadastro/video/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Menu/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Menu/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +63,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/pages/Home" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -70,7 +83,8 @@
       <workItem from="1595889412354" duration="55000" />
       <workItem from="1595889515713" duration="64000" />
       <workItem from="1595889635682" duration="3117000" />
-      <workItem from="1595955119328" duration="6134000" />
+      <workItem from="1595955119328" duration="6732000" />
+      <workItem from="1596107493530" duration="5436000" />
     </task>
     <servers />
   </component>
@@ -93,14 +107,18 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1025" y="326" width="592" height="601" key="#JavaScript" timestamp="1595977805637">
+    <state x="1025" y="326" width="592" height="601" key="#JavaScript" timestamp="1596112476338">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
-    <state x="1025" y="326" width="592" height="601" key="#JavaScript/0.0.1920.1048@0.0.1920.1048" timestamp="1595977805637" />
+    <state x="1025" y="326" width="592" height="601" key="#JavaScript/0.0.1920.1048@0.0.1920.1048" timestamp="1596112476338" />
     <state x="529" y="153" width="1022" height="732" key="SettingsEditor" timestamp="1595889872210">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
     <state x="529" y="153" width="1022" height="732" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1595889872210" />
+    <state x="1205" y="232" key="run.anything.popup" timestamp="1596111513785">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="1205" y="232" key="run.anything.popup/0.0.1920.1048@0.0.1920.1048" timestamp="1596111513785" />
     <state x="1182" y="282" width="672" height="678" key="search.everywhere.popup" timestamp="1595892209267">
       <screen x="0" y="0" width="1920" height="1048" />
     </state>
